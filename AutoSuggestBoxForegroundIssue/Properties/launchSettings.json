@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AutoSuggestBoxForegroundIssue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AutoSuggestBoxForegroundIssue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
